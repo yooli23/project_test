@@ -1,21 +1,21 @@
 # main links
 main:
   - title: "About"
-    url: /home#about
+    url: /#about
   - title: "Program"
-    url: /home#program
+    url: /#program
   - title: "Shared Task"
-    url: /home#shared-task
+    url: /#shared-task
   - title: "Invited Speakers"
-    url: /home#invited-speakers
+    url: /#invited-speakers
   - title: "Organization"
-    url: /home#organization
+    url: /#organization
   - title: "Sponsors"
-    url: /home#sponsors
+    url: /#sponsors
   - title: "Previous Workshops"
-    url: /home#invited-speakers
+    url: /#invited-speakers
   - title: "Contact"
-    url: /home#contact
+    url: /#contact
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
